@@ -1,0 +1,20 @@
+[
+  {
+    "id": "29c02199-fe4e-4fec-8277-b64ae7d21a2d",
+    "nombre": "Miguel Angel",
+    "apellidos": "Ortega Flores",
+    "edad": 27,
+    "telefono": 99982232531,
+    "email": "miguelortega@gmail.com",
+    "domicilio": "AV Milagro"
+  },
+  {
+    "id": "e0e6cbe1-64ea-460f-adea-14fdccfbde82",
+    "nombre": "Miguel Angel",
+    "apellidos": "Ortega Flores",
+    "edad": 27,
+    "telefono": 99982232531,
+    "email": "miguelortega@gmail.com",
+    "domicilio": "AV Milagro"
+  }
+]

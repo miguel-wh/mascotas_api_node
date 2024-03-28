@@ -1,0 +1,22 @@
+[
+  {
+    "id": "018547e2-1ac2-4242-a168-afd3ae407d03",
+    "nombre": "Oso",
+    "sexo": "Macho",
+    "edad_aproximada": "5",
+    "fecha_rescate": "2024/01/20",
+    "image": "uploads/image-1711638387268-230306114.jpg",
+    "persona": "29c02199-fe4e-4fec-8277-b64ae7d21a2d",
+    "vacuna": "c31f21b0-c178-4467-a33c-12e4e60eb777"
+  },
+  {
+    "id": "c497a37d-089e-492d-9df2-b7874c423e71",
+    "nombre": "DokiEdit",
+    "sexo": "Macho",
+    "edad_aproximada": "5",
+    "fecha_rescate": "2024/01/20",
+    "image": "uploads/image-1711643406378-62953372.jpg",
+    "persona": "29c02199-fe4e-4fec-8277-b64ae7d21a2d",
+    "vacuna": "c31f21b0-c178-4467-a33c-12e4e60eb777"
+  }
+]
